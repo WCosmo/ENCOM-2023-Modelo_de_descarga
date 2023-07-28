@@ -1,1 +1,1 @@
-# ENCOM-2023-Modelo_de_descarga
+# Modelo de descarga de bateria para dispositivo IoT
