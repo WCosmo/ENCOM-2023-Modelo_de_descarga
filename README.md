@@ -14,4 +14,4 @@ Datasheets:
 - https://docs.rakwireless.com/Product-Categories/WisBlock/RAK5811/Datasheet/
 - https://doc.riot-os.org/group__boards__esp32__ttgo-t-beam.html
 - https://www.analog.com/media/en/technical-documentation/data-sheets/DS18B20.pdf
-  
+- https://icecat.biz/bn/p/vendorName/mpn/desc-32754413.html  
