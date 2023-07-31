@@ -20,6 +20,7 @@ Gateway:
 - TTGO T-Beam ESP32
 - Fonte 5V
 
+
 ## Datasheets/Referência técnica
 
 - RAK5005-O: https://docs.rakwireless.com/Product-Categories/WisBlock/RAK5005-O/Datasheet/
