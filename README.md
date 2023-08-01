@@ -4,7 +4,7 @@ Projeto destinado à participação no ENCOM 2023.
 
 Resumo: Extrair dados provenientes de um cenário proposto de rede IoT, que consiste dos valores de uma bateria recarregável acoplado ao end-node, que pode estar conectado a diferentes sensores que irão gerar diferentes consumos de energia. A partir desses dados, treinar modelos RNA para estimar o tempo a partir de um segmento observado até o ponto de descarga.
 
-Autor: Wilson Cosmo
+![Alt text](diagramas/diagrama_iot.drawio.png?raw=true "Title")
 
 ## Componentes do cenário proposto
 
