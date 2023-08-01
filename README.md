@@ -24,7 +24,7 @@ Gateway:
 
 Topologia da implementação da rede IoT:
 
-![Alt text](diagramas/diagrama_iot.drawio.png?raw=true "Diagrama da rede IoT proposta")
+![Alt text](ilustracoes/diagrama_iot.drawio.png?raw=true "Diagrama da rede IoT proposta")
 
 ## Datasheets/Referência técnica
 
