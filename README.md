@@ -17,7 +17,7 @@ End-node:
 
 Gateway:
 - TTGO T-Beam ESP32
-- Fonte 5V
+- Fonte DC genérica (5V, 1A)
 
 
 ## Implementação do cenário proposto
