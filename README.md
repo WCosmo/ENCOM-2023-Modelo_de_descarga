@@ -5,7 +5,7 @@ Projeto destinado à participação no ENCOM 2023.
 Objetivo: Extrair dados provenientes de um cenário proposto de rede IoT, que consiste dos valores de uma bateria recarregável acoplado ao end-node, que pode estar conectado a diferentes sensores que irão gerar diferentes consumos de energia. A partir desses dados, treinar modelos RNA para estimar o tempo a partir de um segmento observado até o ponto de descarga.
 
 
-## Componentes do cenário proposto
+## Componentes da rede IoT
 
 End-node:
 - RAK5005-O
@@ -20,9 +20,10 @@ Gateway:
 - Fonte 5V
 
 
-## Implementação da rede IoT
+## Implementação do cenário proposto
 
-Topologia do cenário proposto:
+Topologia da implementação da rede IoT:
+
 ![Alt text](diagramas/diagrama_iot.drawio.png?raw=true "Diagrama da rede IoT proposta")
 
 ## Datasheets/Referência técnica
