@@ -4,7 +4,7 @@ Projeto destinado à participação no ENCOM 2023.
 
 Objetivo: Extrair dados provenientes de um cenário proposto de rede IoT, que consiste dos valores de uma bateria recarregável acoplado ao end-node, que pode estar conectado a diferentes sensores que irão gerar diferentes consumos de energia. A partir desses dados, treinar modelos RNA para estimar o tempo a partir de um segmento observado até o ponto de descarga.
 
-Todas as análises feitas e resultados estão disponíveis no arquivo "ENCOM_2023_-_Modelo_de_descarga.ipynb".
+Todas as análises feitas e resultados estão disponíveis no arquivo `ENCOM_2023_-_Modelo_de_descarga.ipynb`.
 
 ## Componentes da rede IoT
 
@@ -38,11 +38,11 @@ Gateway:
 
 ## Base de dados
 
-Os dados utilizados encontram-se no diretório "base_de_dados", e consistem em informações dos sensores coletados pelo end-node ao longo do processo de descarga, incluindo o próprio valor de tensão da bateria acoplada ao mesmo. No presente trabalho analisou-se somente a porção dos dados correspondente à referida tensão da bateria, que resultam nas seguintes curvas de descarga:
+Os dados utilizados são provenientes da API Thingspeak, e encontram-se no diretório `base_de_dados`, consistindo de informações dos sensores coletados pelo end-node ao longo do processo de descarga, incluindo o próprio valor de tensão da bateria acoplada ao mesmo. No presente trabalho analisou-se somente a porção dos dados correspondente à referida tensão da bateria, que resultam nas seguintes curvas de descarga:
 
 ![Alt text](ilustracoes/dcurves.png?raw=true "Curvas de descarga")
 
-A forma como os dados foram extraídos e visualizados está disponível em "ENCOM_2023_-_Modelo_de_descarga.ipynb".
+A forma como os dados foram extraídos e visualizados pode ser consultada em `ENCOM_2023_-_Modelo_de_descarga.ipynb`.
 
 
 ## Datasheets/Referência técnica
