@@ -29,6 +29,7 @@ Parâmetros da trasmissão LoRa:
 - Fator de Espalhamento (SF): 12 
 - Potencia de transmissão: 22 dBm
 - Tamanho do pacote: 59 quilobytes
+- Tempo entre transmissões: 60 segundos
 
 Topologia da implementação da rede IoT:
 
