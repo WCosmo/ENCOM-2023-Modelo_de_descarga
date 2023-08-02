@@ -4,6 +4,7 @@ Projeto destinado à participação no ENCOM 2023.
 
 Objetivo: Extrair dados provenientes de um cenário proposto de rede IoT, que consiste dos valores de uma bateria recarregável acoplado ao end-node, que pode estar conectado a diferentes sensores que irão gerar diferentes consumos de energia. A partir desses dados, treinar modelos RNA para estimar o tempo a partir de um segmento observado até o ponto de descarga.
 
+Todas as análises feitas e resultados estão disponíveis no arquivo "ENCOM_2023_-_Modelo_de_descarga.ipynb".
 
 ## Componentes da rede IoT
 
