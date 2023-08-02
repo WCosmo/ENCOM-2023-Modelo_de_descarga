@@ -23,6 +23,13 @@ Gateway:
 
 ## Implementação do cenário proposto
 
+Parâmetros da trasmissão LoRa:
+
+- Frequência: 915 MHz
+- Fator de Espalhamento (SF): 12 
+- Potencia de transmissão: 22 dBm
+- Tamanho do pacote: 59 quilobytes
+
 Topologia da implementação da rede IoT:
 
 ![Alt text](ilustracoes/diagrama_iot.drawio.png?raw=true "Diagrama da rede IoT proposta")
