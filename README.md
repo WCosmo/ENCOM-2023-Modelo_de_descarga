@@ -34,6 +34,16 @@ Gateway:
 
 ![Alt text](ilustracoes/gateway.jpg?raw=true "Gateway")
 
+
+## Base de dados
+
+Os dados utilizados encontram-se no diretório "base_de_dados", e consistem em informações dos sensores coletados pelo end-node ao longo do processo de descarga, incluindo o próprio valor de tensão da bateria acoplada ao mesmo. No presente trabalho analisou-se somente a porção dos dados correspondente à referida tensão da bateria, que resultam nas seguintes curvas de descarga:
+
+![Alt text](ilustracoes/dcurves.png?raw=true "Curvas de descarga")
+
+A forma como os dados foram extraídos e visualizados está disponível em "ENCOM_2023_-_Modelo_de_descarga.ipynb".
+
+
 ## Datasheets/Referência técnica
 
 - RAK5005-O: https://docs.rakwireless.com/Product-Categories/WisBlock/RAK5005-O/Datasheet/
