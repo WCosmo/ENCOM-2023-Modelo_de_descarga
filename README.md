@@ -28,11 +28,11 @@ Topologia da implementação da rede IoT:
 
 End-node utilizado:
 
-![Alt text](ilustracoes/diagrama_iot.drawio.png?raw=true "End-node")
+![Alt text](ilustracoes/end-node.jpg?raw=true "End-node")
 
 Gateway:
 
-![Alt text](ilustracoes/diagrama_iot.drawio.png?raw=true "Gateway")
+![Alt text](ilustracoes/gateway.jpg?raw=true "Gateway")
 
 ## Datasheets/Referência técnica
 
