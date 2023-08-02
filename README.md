@@ -26,6 +26,14 @@ Topologia da implementação da rede IoT:
 
 ![Alt text](ilustracoes/diagrama_iot.drawio.png?raw=true "Diagrama da rede IoT proposta")
 
+End-node utilizado:
+
+![Alt text](ilustracoes/diagrama_iot.drawio.png?raw=true "End-node")
+
+Gateway:
+
+![Alt text](ilustracoes/diagrama_iot.drawio.png?raw=true "Gateway")
+
 ## Datasheets/Referência técnica
 
 - RAK5005-O: https://docs.rakwireless.com/Product-Categories/WisBlock/RAK5005-O/Datasheet/
