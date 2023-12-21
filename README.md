@@ -6,6 +6,11 @@ Objetivo: Extrair dados provenientes de um cenário proposto de rede IoT, que co
 
 Todas as análises realizadas, modelos implementados e resultados obtidos estão disponíveis no arquivo `ENCOM_2023_-_Modelo_de_descarga.ipynb`.
 
+Informações da publicação:
+- Título: Modelo de Descarga para Dispositivo IoT Usando Redes Neurais Artificiais
+- Autores: W. A. C. Macedo, T. F. Balbinot, S. B. Santos, W. L. Louzada, V. A. Chaves, E. F. F. de L. Santos, R. T. J. Ramos, F. J. B. Barros
+- Disponível em: https://www.iecom.org.br/encom2023/autores.html#anais
+
 ## Componentes da rede IoT
 
 End-node:
